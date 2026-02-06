@@ -32,3 +32,7 @@ matplotlib
 windpowerlib
 scikit-learn
 ```
+
+## Tekijä
+
+Anton S.
