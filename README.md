@@ -33,6 +33,4 @@ windpowerlib
 scikit-learn
 ```
 
-## Tekijä
-
-Anton S.
+![alt text](image.png)
