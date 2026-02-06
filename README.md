@@ -11,7 +11,7 @@ Tämä notebook käyttää:
 
 ## Aineisto
 
-- 10m ja 100m tuulen komponentit
+- 100m tuulen komponentit
 - 2m lämpötila ja ilmanpaine
 - 3 mittauspistettä: Kalajoki, Närpiö, Simo
 
@@ -29,11 +29,8 @@ numpy
 xarray
 cdsapi
 matplotlib
-seaborn
 windpowerlib
 scikit-learn
 ```
 
-## Tekijä
 
-Anton S.
